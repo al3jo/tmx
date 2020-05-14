@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  buildbox:
+    image: 'golang:latest'
+    volumes:
+      - "${HOME}/.netrc:/root/.netrc"
+      - "${HOME}/.ssh/:/root/.ssh"
+      - "${HOME}/go/pkg:/root/go/pkg"
+      - "${PWD}:/root/code"

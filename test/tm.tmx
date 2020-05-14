@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="xml" segtype="sentence" adminlang="es-CR" srclang="EN-US" o-tmf="SDL TM8 Format" creationdate="20191204T050400Z" creationid="GABY-LAPTOP\Gaby" changedate="20200505T142405Z" changeid="Gaby">
+<prop type="x-Quality:Integer"></prop>
+<prop type="x-SourceFile:SingleString"></prop>
+<prop type="x-TargetFile:SingleString"></prop>
+<prop type="x-Recognizers">RecognizeAll</prop>
+<prop type="x-IncludesContextContent">True</prop>
+<prop type="x-TMName">Roche ES a EN</prop>
+<prop type="x-TokenizerFlags">DefaultFlags</prop>
+<prop type="x-WordCountFlags">DefaultFlags</prop>
+</header>
+<body>
+<tu usagecount="156" lastusagedate="20200421T134151Z" creationdate="20110926T144607Z" creationid="Natitan1\Natitan" changedate="20110926T144607Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<prop type="x-SourceFile:SingleString">ML40210_Protocolov2_Limpio_Inglés_ML40210_Protocolov2_ESPAÑOLClean.sdlalign</prop>
+<prop type="x-TargetFile:SingleString">ML40210_Protocolov2_Limpio_Inglés_ML40210_Protocolov2_ESPAÑOLClean.sdlalign</prop>
+<prop type="x-Quality:Integer">100</prop>
+<prop type="x-Context">0, 0, 8183329992840138336, -3191728721181951617, 5135313391220185399, -7574320759500760598, -4317637941507427017, -181277153479016300, 1409943519203407145, 7186157642027940754, 711813193068054705, -2142301853863595367, -5813598855750040582, -3536778218945082613, -3946654101411451212, -656366713889629331, 1356362508927233145, -7539322827528266171, -568684517934437679, 4435000557350993705, 8494517383844358684, 883537595856729840, -2323598380871353144, -7539322827528266171, -2587681539244384981, -7819235373687660351, 2603173351905064964, -8612300595475738071, -3620048944460019898, -1008695505013098984, -2123278644635351741, -5595067206691672980, -21727920139812111, 6610183537195873893, 5869334431147167010, 109015086631211, -7216898120873540292, 2429549260279435829, -1304955329134026470, 1089444569191956274, -6553739025151478356, 5039838488709005282, 58179513697439, 58179523885961, -1573152511491220809, 3047918188424353215, 7916026396568888269, -644960765450314498, 3248828144572679649, 104801001621171328, 6828774543472581497, 6732104646435430487, 2083286159204424851, 5664202871767225262, 1803564965286161, 58179514754322, -7453840894640929374, 3302513401149491696, 6178150204914871476, 3583726963092815492, 6792257764056246293, -7140319384188343659, -3026210271961483083, -4627599547728289408, 2032174, 2032174, -8761276637845201830, 8836538115591529599, 4060071767472750041, -7925797812184477775, -6559724677426245544, -7159610520739444906, 3379776540117479, 3374659188369005</prop>
+<prop type="x-ContextContent">Selección (para saber si usted es elegible para el estudio) |  | Screening (to find out if you are eligible for the study) | , Ley aplicable y jurisdicción |  | Applicable Law and Jurisdiction | , Selección (para ver si usted es elegible para esta cohorte de tratamiento) |  | Screening (to see if you are eligible for this treatment cohort) | , Confidencialidad |  | Confidentiality | , Consideraciones adicionales: |  | Additional Considerations: | , Estas condiciones también aplican cuando el representante legal de un paciente adulto incapacitado otorga el consentimiento. |  | These conditions may also apply when a disabled adult patient’s legal representative gives consent. | , Terminación anticipada |  | Early Termination | , Este estudio consta de tres partes: |  | The study consists of three phases: | , Tratamiento (incluye el período de cruce del tratamiento seguido del período de continuación del tratamiento) |  | Treatment phase (includes a crossover treatment period followed by a treatment continuation period) | , Tales países pueden tener menos garantías de protección de datos y derechos que el país en donde se encuentra el centro del estudio al que pertenecen. |  | Said countries may have fewer data and right protection guarantees in the country where the center of the study belongs. | , El estudio cuenta con tres partes: |  | The study consists of three phases: | , Roche cubrirá los gastos regulatorios del comité de ética. |  | Roche shall cover all regulatory expenses of the Ethics Committee. | , Sin embargo, Roche aún podrá utilizar cualquier información médica acerca de usted que se haya recopilado durante este estudio. |  | Roche, however, will still be able to use your information collected during the study. | , Roche está proporcionando apoyo económico para cubrir el costo de los procedimientos específicos del estudio que se realicen durante este estudio. |  | Roche is providing financial support to cover the cost of study-specific procedures performed during this study. | , Regresar todos los suministros relacionados con el estudio, incluso cualquier tratamiento del estudio sin utilizar. |  | Return all study-related supplies, including any unused study treatments. | , Responsabilidades de la institución |  | Institution’s Responsibilities | , VEA LA PÁGINA |  | SEE PAGE | , Entrectinib es un medicamento experimental, lo que significa que las autoridades sanitarias no han aprobado a Entrectinib para el tratamiento del cáncer de pulmón. |  | Entrectinib is an experimental drug, which means that Entrectinib has not been approved by health authorities for lung cancer treatment. | , Roche será el responsable por la importación del Producto, así como los costos asociados a la importación. |  | Roche shall be responsible for importing the Product, as well as for the costs associated with the import process. | , En Costa Rica participarán al menos 5 pacientes, de los cuales 5 serán incluidos en este centro. |  | At least 5 patients from Costa Rica will participate and 5 out of those patients will be included in this center. | , 2 de 11 |  | 2 of 11 | , Participarán aproximadamente 50 pacientes en la Cohorte D de este estudio. |  | Approximately 50 patients will participate in cohort D of this study. | , Este estudio ha sido aprobado por el Comité Ético Científico UNIBE, una organización que se encarga de proteger los derechos y la seguridad de los pacientes que participan en estudios de investigación. |  | This study has been approved by the UNIBE Scientific Ethics Committee, an organization that is responsible for protecting the rights and safety of patients who take part in research studies. | , Tratamiento |  | Treatment | , Responsabilidades del médico |  | Physician’s Responsibilities | , ¿Qué sucederá si participo en esta cohorte de tratamiento? |  | What will happen if I take part in this treatment cohort? | , 5.1	 Guantes |  | 5.1	Gloves | , Además, este estudio estará registrado en la página web del Ministerio de Salud. |  | In addition, this study will be registered on the website of the Ministry of Health. | , Los cuales incluyen todos los impuestos locales de ley. |  | They include all local taxes. | , 8.2 Gafas de protección |  | 8.2       Protection Glasses | , Llamar al médico del estudio, quien valorará si es necesario que sea referido al servicio de emergencias del Hospital Clínica Bíblica. |  | Call the study doctor who will assess if it is necessary to refer you to the emergency service of the Clinica Biblica Hospital. | , 1. |  | 1. | , Esta segunda parte del estudio tiene tres fases: |  | This second part of the study has three phases: | , Para hacerla efectiva, usted debe contactar al Dr. Luis Alberto Corrales Rodríguez o al personal del Centro CIMCA para que informen a Roche y este proceda a hacerla efectiva. |  | To make it effective you must contact the study doctor, Luis Alberto Corrales Rodríguez, or the CIMCA Center personnel, to inform Roche and make the policy effective. | , Este estudio tiene tres partes: |  | This study consists of 3 sections: | , Sr./Sra.: |  | Mr./Mrs.: | </prop>
+<prop type="x-StructureContext:MultipleString">x-tm-heading, x-tm-table-cell</prop>
+<tuv xml:lang="ES-CR">
+<seg>1.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>1.</seg>
+</tuv>
+</tu>
+<tu usagecount="11" lastusagedate="20130816T141357Z" creationdate="20110926T144613Z" creationid="Natitan1\Natitan" changedate="20110926T144613Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>RESUMEN EJECUTIVO</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>EXECUTIVE SUMMARY</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T150339Z" creationdate="20110926T150339Z" creationid="Natitan1\Natitan" changedate="20110926T150339Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>– En la Unión Europea (UE) para el manejo de pacientes con fibrosis quística (FQ) que tengan más de cinco años con capacidad vital forzada (CVF) mayor a 40% del valor pronosticado para mejorar su función pulmonar.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>– In the European Union (EU) for the management of cystic fibrosis (CF) patients over five years of age with a Forced Vital Capacity (FVC) of greater than 40% of the predicted value to improve pulmonary function.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151604Z" creationdate="20110926T145747Z" creationid="Natitan1\Natitan" changedate="20110926T151604Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Este Informe Periódico de Actualización en materia de Seguridad (PSUR por sus siglas en inglés) para dornasa alfa cubre el periodo del 1 de julio del 2010 hasta el 30 de junio del 2011 inclusive.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>This Periodic Safety Update Report (PSUR) for dornase alfa covers the period 01 July 2010 to 30 June 2011, inclusive.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151611Z" creationdate="20110926T150002Z" creationid="Natitan1\Natitan" changedate="20110926T151611Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Desde la aprobación inicial para su comercialización en Suiza el 3 de setiembre de 1993, hasta el final del periodo de reporte para este PSUR (30 de junio de 2010), dornasa alfa ha sido aprobado para uso en 70 países alrededor del mundo.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>Since initial market approval in Sweden on 03 September 1993 until the end of the reporting period for this PSUR (30 June 2010), dornase alfa has been approved for use in 70 countries worldwide.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151616Z" creationdate="20110926T150020Z" creationid="Natitan1\Natitan" changedate="20110926T151616Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Dornasa alfa actualmente está aprobado para el tratamiento de las siguientes indicaciones:</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>Dornase alfa is currently approved for treatment of the following indications:</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151625Z" creationdate="20110926T150441Z" creationid="Natitan1\Natitan" changedate="20110926T151625Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>– En los Estados Unidos, se ha indicado la administración diaria de dornasa alfa junto con terapias estándares en el manejo de pacientes con FQ para mejorar su función pulmonar.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>– In the US, daily administration of dornase alfa in conjunction with standard therapies is indicated in the management of CF patients to improve pulmonary function.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151632Z" creationdate="20110926T150654Z" creationid="Natitan1\Natitan" changedate="20110926T151632Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>En pacientes con CVF de ξ40 % del valor pronosticado, la administración diaria de dornasa alfa también ha demostrado que reduce el riesgo de infecciones respiratorias que requieren de antibióticos por vía parental.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>In patients with a FVC of ξ40 % of the predicted value, daily administration of dornase alfa has also been shown to reduce the risk of respiratory infections requiring parenteral antibiotics.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151638Z" creationdate="20110926T150955Z" creationid="Natitan1\Natitan" changedate="20110926T151638Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>– En los Estados Unidos la etiqueta indica que existe una experiencia limitada con la administración de dornasa alfa en pacientes menores de cinco años de edad y que se debería considerar su uso solamente en aquellos pacientes que presentan una posibilidad de beneficiar su función pulmonar o riesgo de infección del tracto respiratorio.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>– In the US the label indicates that there is limited experience with the administration of dornase alfa to patients younger than five years of age and its use should be considered only for those patients in whom there is a potential for benefit in pulmonary function or risk of respiratory tract infection.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151647Z" creationdate="20110926T151109Z" creationid="Natitan1\Natitan" changedate="20110926T151647Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>– Dornasa alfa ha sido aprobado para uso en pacientes con FQ menores de cinco años de edad con CVF de ξ 40% de valor pronosticado en algunos países fuera de los Estados Unidos.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>– Dornase alfa has been approved for use in CF patients under five years of age with a FVC ξ 40% of predicted in some countries outside the US.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151652Z" creationdate="20110926T151652Z" creationid="Natitan1\Natitan" changedate="20110926T151652Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Dornasa alfa se comercializa como Viscozyme (Venezuela y Chile) y Pulmozyme (en el resto del mundo).</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>Dornase alfa is marketed as Viscozyme (Venezuela and Chile) and Pulmozyme (rest of the world).</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151728Z" creationdate="20110926T151728Z" creationid="Natitan1\Natitan" changedate="20110926T151728Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Los Estados Unidos y Puerto Rico son territorios de Genentech, un miembro de Grupo Roche desde el 26 de marzo de 2009.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>The US and Puerto Rico are territories of Genentech, a member of the Roche Group since 26 March 2009.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T151808Z" creationdate="20110926T151808Z" creationid="Natitan1\Natitan" changedate="20110926T151808Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Chipre es un territorio de Stamatis y Europa y el resto del muindo son considerados como territorio de Roche.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>Cyprus is a territory of Stamatis, and Europe and the rest of the world are considered territories of Roche.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T200806Z" creationdate="20110926T200806Z" creationid="Natitan1\Natitan" changedate="20110926T200806Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>La distribución de los EAG fue en general consistente con la presenta en el anterior PSUR previamente programado y preparado para el metoxi-polietilenglicol epoetina beta (PSUR 1036875 del 20 de julio de 2009 al 19 de julio de 2010).</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>The distribution of SAEs by SOC was broadly consistent with that presented in the previous scheduled PSUR prepared for methoxy polyethylene glycol-epoetin beta (PSUR 1036875, 20 July 2009 to 19 July 2010).</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T201519Z" creationdate="20110926T201519Z" creationid="Natitan1\Natitan" changedate="20110926T201519Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>MAH continuamente está monitoreando los siguientes EA / SOC: eventos categorizados en la SOC de Infecciones e Infestaciones, cáncer gástrico y otros neoplasmas malignos, agranulocitosis, trombocitopenia, reacciones de hipersensibilidad, en particular, reacciones anafilácticas, reacciones / trastornos en la piel, úlceras gástricas / enfermedad de úlcera péptica, hemorragias gastrointestinales, colestasis, eventos dentro de SOC de trastornos hepatobiliares, artralgia, constipación, hiperfosfatemia, derrame pericardial, derrame pleural, eventos cardiovasculares y el Síndrome de Stevens-Johnson.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>The MAH is continually monitoring the following AEs/SOCs: events categorised in the Infections and Infestations SOC, gastric cancer and other malignant neoplasms, agranulocytosis, thrombocytopenia, hypersensitivity reactions, in particular, anaphylactic reactions, skin reactions/disorders, gastric ulcer/ peptic ulcer disease, gastrointestinal haemorrhage, cholestasis, events within the SOC of Hepatobiliary Disorders, arthralgia, constipation, hyperphosphataemia, pericardial effusion, pleural effusion, cardiovascular events and Steven’s Johnson Syndrome.</seg>
+</tuv>
+</tu>
+<tu usagecount="0" lastusagedate="20110926T201621Z" creationdate="20110926T201621Z" creationid="Natitan1\Natitan" changedate="20110926T201621Z" changeid="Natitan1\Natitan">
+<prop type="x-LastUsedBy">Natitan1\Natitan</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<tuv xml:lang="ES-CR">
+<seg>Después de la revisión de todos los informes relevantes, no se identificó ningún asusto nuevo de seguridad.</seg>
+</tuv>
+<tuv xml:lang="EN-US">
+<seg>Upon review of all relevant reports, no new safety issues were identified.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>
